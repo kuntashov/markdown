@@ -1,3 +1,5 @@
+**Готовая реализация markdown от EvilBeaver https://github.com/oscript-library/markdown**
+
 # Парсер Markdown на языке 1С
 
 Является 1С-реализацией популярного php-парсера [Parsedown](https://github.com/erusev/parsedown) (https://github.com/erusev/parsedown).
